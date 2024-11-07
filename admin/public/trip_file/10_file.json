@@ -1,0 +1,18 @@
+[
+    {
+        "latitude": "11.0130318",
+        "longitude": "77.0028058",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "12:12:34"
+    },
+    {
+        "latitude": "11.0130319",
+        "longitude": "77.0028058",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "12:12:46"
+    }
+]

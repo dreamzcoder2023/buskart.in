@@ -1,0 +1,3 @@
+<?php echo $__env->make('apppolicy.header', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->yieldContent('content'); ?>
+<?php echo $__env->make('apppolicy.footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/u536447607/domains/buskart.in/public_html/book/resources/views/apppolicy/main.blade.php ENDPATH**/ ?>

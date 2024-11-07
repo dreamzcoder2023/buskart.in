@@ -1,0 +1,58 @@
+[
+    {
+        "latitude": "11.0252168",
+        "longitude": "76.9472932",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:07:58"
+    },
+    {
+        "latitude": "11.0252107",
+        "longitude": "76.9472808",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:08:08"
+    },
+    {
+        "latitude": "11.0252105",
+        "longitude": "76.9472816",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:08:18"
+    },
+    {
+        "latitude": "11.0252076",
+        "longitude": "76.947276",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:08:30"
+    },
+    {
+        "latitude": "11.0252073",
+        "longitude": "76.9472782",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:08:40"
+    },
+    {
+        "latitude": "11.0252067",
+        "longitude": "76.9472798",
+        "current_km": "0.000000",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:08:52"
+    },
+    {
+        "latitude": "11.0252027",
+        "longitude": "76.947279",
+        "current_km": "0.000000",
+        "old_km": "0.04",
+        "new_km": "0.04",
+        "time": "06:09:02"
+    }
+]

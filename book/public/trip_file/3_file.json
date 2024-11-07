@@ -1,0 +1,50 @@
+[
+    {
+        "latitude": "10.3686712",
+        "longitude": "77.9820777",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:44:55"
+    },
+    {
+        "latitude": "10.3686611",
+        "longitude": "77.9820781",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:45:05"
+    },
+    {
+        "latitude": "10.368619",
+        "longitude": "77.9820718",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:45:17"
+    },
+    {
+        "latitude": "10.3686419",
+        "longitude": "77.9820753",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:45:27"
+    },
+    {
+        "latitude": "10.3686242",
+        "longitude": "77.9820838",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:45:37"
+    },
+    {
+        "latitude": "10.3686307",
+        "longitude": "77.9820809",
+        "current_km": "0.000000",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "06:45:49"
+    }
+]
